@@ -1,6 +1,8 @@
 # rfm96_frequency_calculator
 
+[Deployed at https://eduardoartioli.github.io/rfm96_frequency_calculator/](https://eduardoartioli.github.io/rfm96_frequency_calculator/)
 
+```html
 <html>
     <body>
         <div>
@@ -137,3 +139,4 @@
         }
     </script>
  </html> 
+```
